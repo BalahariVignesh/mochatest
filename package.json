@@ -1,0 +1,16 @@
+{
+  "name": "sampletest",
+  "version": "1.0.0",
+  "description": "app to test mocha",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2"
+  }
+}
