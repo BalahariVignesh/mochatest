@@ -33,7 +33,7 @@ jobs:
       run: |
         docker build . -t balahari/sportify:latest
 
-    # Runs a set of commands using the runners shell
-    - name: docker push
-      run: |
-        docker push balahari/sportify:latest
+#     # Runs a set of commands using the runners shell
+#     - name: docker push
+#       run: |
+#         docker push balahari/sportify:latest
